@@ -1,5 +1,3 @@
-Link:  https://yours-todo.netlify.app/
-
 
 
 
